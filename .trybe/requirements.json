@@ -1,0 +1,76 @@
+{
+  "requirements": [
+    {
+      "description": "Pix válido deve ser realizado com sucesso",
+      "bonus": false
+    },
+    {
+      "description": "Exceção customizada deve ser lançada caso o valor seja igual a zero",
+      "bonus": false
+    },
+    {
+      "description": "Exceção customizada deve ser lançada caso o valor seja negativo",
+      "bonus": false
+    },
+    {
+      "description": "Exceção customizada deve ser lançada caso a chave esteja em branco",
+      "bonus": false
+    },
+    {
+      "description": "Exceção customizada deve ser lançada em caso de saldo insuficiente",
+      "bonus": false
+    },
+    {
+      "description": "Exceção customizada deve ser lançada em caso de chave não encontrada",
+      "bonus": false
+    },
+    {
+      "description": "Exceção customizada deve ser lançada em caso de erro interno",
+      "bonus": false
+    },
+    {
+      "description": "IOExceptions ao abrir conexão devem ser propagadas",
+      "bonus": false
+    },
+    {
+      "description": "IOExceptions ao enviar devem ser propagadas",
+      "bonus": false
+    },
+    {
+      "description": "A conexão deve ser fechada após o sucesso da operação",
+      "bonus": false
+    },
+    {
+      "description": "A conexão deve ser fechada mesmo em caso de erro",
+      "bonus": false
+    },
+    {
+      "description": "Mensagem de sucesso deve ser exibida corretamente",
+      "bonus": false
+    },
+    {
+      "description": "Mensagem de valor não positivo deve ser exibida corretamente",
+      "bonus": false
+    },
+    {
+      "description": "Mensagem de chave em branco deve ser exibida corretamente",
+      "bonus": false
+    },
+    {
+      "description": "Mensagem de saldo insuficiente deve ser exibida corretamente",
+      "bonus": false
+    },
+    {
+      "description": "Mensagem de chave não encontrada deve ser exibida corretamente",
+      "bonus": false
+    },
+    {
+      "description": "Mensagem de erro interno deve ser exibida corretamente",
+      "bonus": false
+    },
+    {
+      "description": "Mensagem de erro de conexão deve ser exibida corretamente",
+      "bonus": false
+    }
+  ]
+}
